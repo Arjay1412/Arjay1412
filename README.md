@@ -1,5 +1,10 @@
-## Hi there 👋
+# 🐢 Hello! Arjay here
 
+**`A Computer Science Student`**
+
+---
+### 🧰 Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=python,php,mysql,django,godot,figma,cs,c,github,vscode&theme=dark)](https://skillicons.dev)
 <!--
 **Arjay1412/Arjay1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
